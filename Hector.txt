@@ -1,0 +1,5 @@
+Glosario:
+    git Fetch: descargan código remoto desde la dirección URL remota de un repositorio al equipo local.
+    git merge: se usa para combinar el trabajo de diferentes personas con el suyo.
+    git pull: es una combinación de fetch y merge.
+    git commit: nos permite comentar algun cambio en el codigo.
