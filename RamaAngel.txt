@@ -1,0 +1,3 @@
+Glosario:
+        Git Checkout: Este comando nos permite cambiar de rama
+        Git push: Este comando nos permite subir una rama al repositorio
